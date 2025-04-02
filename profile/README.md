@@ -1,4 +1,4 @@
-| 🤖 Marque | 💻 .NET | 🐍 Python | 🟨 LabVIEW | 🎮 Unity |
+|  | 💻 .NET | 🐍 Python | 🟨 LabVIEW | 🎮 Unity |
 |----------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
 | **Universal Robots** | [UniversalRobots.NET](https://github.com/UnderAutomation/UniversalRobots.NET) | [UniversalRobots.py](https://github.com/UnderAutomation/UniversalRobots.py) | [UniversalRobots.vi](https://github.com/UnderAutomation/UniversalRobots.vi) | [UniversalRobots.Unity](https://github.com/UnderAutomation/UniversalRobots.Unity) |
 | **Fanuc**            | [Fanuc.NET](https://github.com/UnderAutomation/Fanuc.NET)           | [Fanuc.py](https://github.com/UnderAutomation/Fanuc.py)             | [Fanuc.vi](https://github.com/UnderAutomation/Fanuc.vi)             |              |
