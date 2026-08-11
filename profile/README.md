@@ -8,3 +8,9 @@
 Website : https://underautomation.com/
 
 Test Fanuc SDK Kinematics features online : https://fanuc-kinematics.underautomation.com/
+
+NuGet Gallery (.NET) : https://www.nuget.org/profiles/UnderAutomation
+
+PyPI (Python) : https://pypi.org/user/UnderAutomation/
+
+LinkedIn : https://www.linkedin.com/company/underautomation
